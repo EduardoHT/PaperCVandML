@@ -1,4 +1,4 @@
-# Paper Fusion Strategy of Computer Vision and Machine Learning for Correlating Optical Coordinates and AIS Data in Maritime Monitoring
+# Paper: Computer Vision and Machine Learning Approach for Correlating Optical Coordinates with AIS Data in Maritime Surveillance
 
 - AISdata: Data transmitted by vessels synchronized with the video.
 

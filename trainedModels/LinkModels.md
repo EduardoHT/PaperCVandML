@@ -20,14 +20,14 @@ The **VoVGSCSP_P2** architecture achieved consistent gains of **+3.36% to +6.10%
 Each trained model is saved as:
 
 Where:
-- **ModelVersion** → `YOLOv11`, `YOLOv12`, or `YOLOv13`  
+- **ModelVersion** → `YOLOv11n`, `YOLOv12n`, or `YOLOv13n`  
 - **Architecture** → `C3k2_P2`, `VoVGSCSP`, `VoVGSCSP_P2`  
 - **fold<Number>** → `fold1` … `fold5`  
 
 ✅ **Example filenames:**
-- `YOLOv11_VoVGSCSP_P2_fold1.pt`  
-- `YOLOv12_C3k2_P2_fold3.pt`  
-- `YOLOv13_Original_fold5.pt`
+- `YOLOv11n_fold3_VoVGSCSP_P2.pt`  
+- `YOLOv12n_fold4_C3k2_P2.pt`  
+- `YOLOv13n_fold5.pt`
 
 ### 🚀📦 Download Link
 
